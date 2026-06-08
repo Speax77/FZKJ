@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 维保专业版",
+  "description": "专业级工业设备维保、备件耗材以及缺陷工单双向管理系统",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
